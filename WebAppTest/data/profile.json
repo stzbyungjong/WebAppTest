@@ -1,0 +1,33 @@
+{
+  "name": "홍명포",
+  "headline": "축구 그 자체",
+  "imagePath": "/images/profile.jpg",
+  "sections": [
+    {
+      "type": "text",
+      "title": "소개",
+      "body": "안녕하세요. 최고의 감독 인사드립니다."
+    },
+    {
+      "type": "fields",
+      "title": "기본 정보",
+      "items": [
+        { "label": "이메일", "value": "soccer@fail.com" },
+        { "label": "위치", "value": "Seoul, Korea" }
+      ]
+    },
+    {
+      "type": "tags",
+      "title": "스킬",
+      "items": ["낭비", "멍떄리기", "성질내기"]
+    },
+    {
+      "type": "links",
+      "title": "링크",
+      "items": [
+        { "label": "GitHub", "url": "https://github.com/" },
+        { "label": "Website", "url": "https://example.com" }
+      ]
+    }
+  ]
+}
